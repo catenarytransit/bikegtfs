@@ -1,0 +1,95 @@
+stop_id,stop_name,stop_lat,stop_lon
+alpnsthgrd,Alpine South Grade Bike Stop,32.8346596,-116.7514405
+old80,Olde 80 Bike Stop,32.8557646,-116.8378245
+jnnngs,Jennings Bike Waypoint,32.846301,-116.882574
+estcntysqr,East County Square Bike Stop,32.8232939,-116.901804
+tvrn,Tavern Bike Waypoint,32.8377496,-116.7782602
+ptz,Peutz Bike Waypoint,32.8477556,-116.8072138
+blssm,Blossom Bike Waypoint,32.8591748,-116.8600902
+escndd-trnst,Escondido-Transit Bike Stop,33.1195705,-117.0932971
+wstvlly,West Valley Bike Waypoint,33.1071428,-117.1046628
+vrnch,Via Rancho Bike Waypoint,33.089649,-117.1142909
+dlds,Del Dios Bike Waypoint,33.0742554,-117.1213805
+crsby,Crosby Bike Waypoint,33.0379102,-117.1628236
+lsclns,Las Colinas Bike Stop,33.0209358,-117.2020084
+escndd-myflwr,Escondido-Mayflower Bike Stop,33.1573482,-117.0318988
+elnrt,El Norte Bike Waypoint,33.1499245,-117.036944
+mdwy,Midway Bike Waypoint,33.1404118,-117.0532913
+ash,Ash Bike Waypoint,33.1317409,-117.0675029
+brdwy,Broadway Bike Waypoint,33.1257519,-117.0828689
+yrd,Yard Bike Waypoint,33.1212767,-117.097175
+escndd-dwntwn,Escondido-Downtown Bike Stop,33.1222739,-117.0829955
+nrdhl,Nordahl Bike Waypoint,33.1310766,-117.1239231
+rnchrs,Rancheros Bike Waypoint,33.1395024,-117.1405543
+plmrcllg,Palomar College Bike Waypoint,33.1470004,-117.1850522
+chrmyhll,Cherimoya Hill Bike Waypoint,33.1642644,-117.1999543
+vctry,Victory Bike Waypoint,33.1712292,-117.2035016
+bncrk,Buena Creek Bike Stop,33.1736359,-117.2074605
+ctyhghts,City Heights Bike Stop,32.74988,-117.1080819
+trlt,Teralta Bike Waypoint,32.7518793,-117.1084014
+blvrdplz,Boulevard Plaza Bike Waypoint,32.7554506,-117.1082216
+adms,Adams Bike Waypoint,32.7629899,-117.1084577
+cmndlr,Camino Del Rio Bike Waypoint,32.7774333,-117.1099469
+mssncty,Mission City Bike Waypoint,32.7750037,-117.124584
+rnchmssn,Rancho Mission Bike Waypoint,32.780835,-117.1104342
+stdm,Stadium Bike Waypoint,32.780437,-117.1194456
+fntnprkwy,Fenton Parkway Bike Stop,32.7789847,-117.1270283
+oldsnjn,Old San Juan Bike Stop,33.5011576,-117.6642435
+dlobsp,Del Obispo Bike Waypoint,33.4979163,-117.6657397
+trbc,Trabuco Bike Waypoint,33.4910925,-117.6656764
+alpz,Alipaz Bike Waypoint,33.4800839,-117.6783976
+pchlpentr,PCH Loop Enter Bike Waypoint,33.4636227,-117.6836999
+dnpnt,Dana Point Bike Stop,33.462425,-117.6867108
+dhny,Doheny Bike Waypoint,33.4624244,-117.6798423
+pchlpext,PCH Loop Exit Bike Waypoint,33.4639223,-117.6835089
+bchrd,Beach Road Bike Waypoint,33.4554011,-117.6680345
+cmncpstrn,Camino Capistrano Bike Waypoint,33.4414695,-117.6452832
+snclmnt,San Clemente Bike Waypoint,33.4324564,-117.6331303
+snclmntpr,San Clemente Pier Bike Stop,33.4195784,-117.6197001
+ucsndg,UC San Diego Bike Stop,32.8789829,-117.231802
+gnsbrdg,Genesee Bridge Bike Waypoint,32.88764,-117.2298331
+srrnt,Sorrento Bike Stop,32.9028631,-117.2250759
+vllljll,Villa La Jolla Bike Waypoint,32.8642227,-117.2362895
+thtrdstrct,Theatre District Bike Waypoint,32.8741254,-117.2382797
+clny,Colony Bike Waypoint,32.8506497,-117.2362094
+sntfnrth,Santa Fe North Bike Waypoint,32.8332186,-117.2320549
+sntfsth,Santa Fe South Bike Waypoint,32.8166401,-117.2223931
+dmn,Damon Bike Stop,32.8089327,-117.219011
+bycrs,Bay Course Bike Waypoint,32.799286,-117.2197396
+bcnr,Bucaneer Bike Waypoint,32.7973018,-117.2248059
+ingrhm,Ingraham Bike Waypoint,32.7939518,-117.2391017
+ocnfrnt,Ocean Front Bike Stop,32.7906107,-117.2551354
+nrmlhghts,Normal Heights Bike Stop,32.7627497,-117.130223
+blvrdwst,Boulevard West Bike Waypoint,32.7553276,-117.1301773
+obsrvtry,Observatory Bike Stop,32.7484864,-117.1301478
+ups,Upas Bike Waypoint,32.7411114,-117.1300854
+crs,Course Bike Waypoint,32.7310746,-117.1383176
+pwrhs,Powerhouse Bike Waypoint,32.7225605,-117.142583
+gldnhll,Golden Hill Bike Waypoint,32.7188915,-117.142465
+rssblvrd,Russ Boulevard Bike Waypoint,32.7194283,-117.1534483
+ctycllg,City College Bike Stop,32.7169319,-117.153802
+brny,Birney Bike Stop,32.7572069,-117.1477057
+hllcrstcr,Hillcrest Core Bike Stop,32.7485055,-117.1512092
+unvrstycrssng,University Crossing Bike Waypoint,32.7475728,-117.1627435
+chrchs,Churches Bike Waypoint,32.7508685,-117.1745854
+snstapprch,Sunset Approach Bike Waypoint,32.7510576,-117.1794403
+arst,Arista Bike Waypoint,32.7558966,-117.1894011
+prsd,Presidio Bike Stop,32.7593026,-117.1939099
+mrn,Morena Bike Waypoint,32.7644144,-117.196921
+oldswrld,Old Sea World Bike Waypoint,32.7623078,-117.2086783
+bypnt,Bay Point Bike Stop,32.7573456,-117.2475357
+lbrty,Liberty Bike Stop,32.7343804,-117.2124956
+hrbrislnd,Harbor Island Bike Waypoint,32.7291458,-117.1951578
+cntycntr,County Center Bike Waypoint,32.7221383,-117.1734282
+sprt,Seaport Bike Stop,32.709244,-117.1699052
+implbysd,Imp'l/Bayside Bike Waypoint,32.7047558,-117.1572899
+csrechvz,Cesar E Chavez Bike Waypoint,32.6985357,-117.1470877
+chcnprk,Chicano Park Bike Stop,32.7003053,-117.1425816
+sprckls,Spreckels Bike Stop,32.6900443,-117.1769377
+pmn,Pomona Bike Waypoint,32.6834803,-117.1740106
+strndwy,Strand Way Bike Waypoint,32.6726531,-117.1667595
+lyt,Leyte Bike Waypoint,32.6485849,-117.1485113
+crndcys,Coronado Cays Bike Waypoint,32.6252289,-117.1374934
+otyrvr,Otay River Bike Waypoint,32.5878274,-117.1058321
+elm,Elm Bike Waypoint,32.5806857,-117.1056819
+ibpr,IB Pier Bike Stop,32.5794156,-117.1317115

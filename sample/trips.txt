@@ -1,0 +1,11 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,bikes_allowed
+bike-route-1,bike-day-march-2024,bike-trip-1,Community Ride to Las Colinas,0,bike-route-1-shape,1
+bike-route-2,bike-day-march-2024,bike-trip-2,Community Ride to Escondido-Mayflower,0,bike-route-2-shape,1
+bike-route-3,bike-day-march-2024,bike-trip-3,Community Ride to Fenton Parkway,0,bike-route-3-shape,1
+bike-route-4,bike-day-march-2024,bike-trip-4,Community Ride to City College,0,bike-route-4-shape,1
+bike-route-5,bike-day-march-2024,bike-trip-5,Community Ride to Alpine South Grade,0,bike-route-5-shape,1
+bike-route-6,bike-day-march-2024,bike-trip-6,Community Ride to Bay Point,0,bike-route-6-shape,1
+bike-route-7,bike-day-march-2024,bike-trip-7,Community Ride to Chicano Park,0,bike-route-7-shape,1
+bike-route-8,bike-day-march-2024,bike-trip-8,Community Ride to IB Pier,0,bike-route-8-shape,1
+bike-route-9,bike-day-march-2024,bike-trip-9,Community Ride to San Clemente Pier,0,bike-route-9-shape,1
+bike-route-10,bike-day-march-2024,bike-trip-10,Community Ride to Ocean Front,0,bike-route-10-shape,1

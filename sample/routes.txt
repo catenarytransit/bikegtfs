@@ -1,0 +1,11 @@
+route_id,route_long_name,route_type,route_color,route_text_color
+bike-route-1,Del Dios Highway Community Ride,3,EB131B,000000
+bike-route-2,Escondido Creek Community Ride,3,E2E428,000000
+bike-route-3,Mission San Diego Community Ride,3,A05DA5,000000
+bike-route-4,North Park Community Ride,3,E470AB,000000
+bike-route-5,Olde Highway 80 Community Ride,3,ADB8BF,000000
+bike-route-6,Bay Point Community Ride,3,58A738,000000
+bike-route-7,Waterfront Community Ride,3,FDB913,000000
+bike-route-8,Silver Strand Community Ride,3,FC4C02,000000
+bike-route-9,Pacific Coast Highway Community Ride,3,62361B,000000
+bike-route-10,Santa Fe Trail Community Ride,3,00A1DE,000000

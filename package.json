@@ -1,0 +1,12 @@
+{
+  "name": "bikegtfs",
+  "version": "1.0.0",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/index.js"
+  }
+}

@@ -1,0 +1,2 @@
+service_id,date,exception_type
+bike-day-march-2024,20240331,1
