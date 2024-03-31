@@ -64,6 +64,7 @@ fs.writeFileSync('sample/stop_times.txt', finalstoptimes.join('\n'))
 fs.writeFileSync('sample/shapes.txt', finalshapes.join('\n'))
 
 fs.writeFileSync('sample/agency.txt', 'agency_name,agency_url,agency_id,agency_timezone\nCatenary Community Rides,https://catenarymaps.org/communityrides,bike-catenary,America/Los_Angeles')
+fs.writeFileSync('sample/feed_info.txt', 'feed_publisher_name,feed_publisher_url,feed_lang\nCatenary,https://catenarymaps.org,en')
 fs.writeFileSync('sample/calendar_dates.txt', 'service_id,date,exception_type\nbike-day-march-2024,20240331,1')
 
 console.log(chalk.bold.blueBright('✔️ All done!'))
