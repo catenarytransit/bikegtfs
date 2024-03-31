@@ -1,2 +1,2 @@
 agency_name,agency_url,agency_id,agency_timezone
-Catenary Community Rides,https://catenarymaps.org/communityrides,bike-catenary,America/Los_Angeles
+Catenary Community Rides,https://catenarymaps.org/rides,bike-catenary,America/Los_Angeles

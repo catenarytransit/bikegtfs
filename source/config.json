@@ -1,0 +1,16 @@
+{
+    "prefix": "crx",
+    "stop": "Waypoint",
+    "service": "Community Ride",
+    "agency": "bike-catenary",
+    "name": "Catenary Community Rides",
+    "url": "https://catenarymaps.org/rides",
+    "lang": "en",
+    "tz": "America/Los_Angeles",
+    "runs": [
+        {
+            "date": 20240331,
+            "route": "Del Dios Highway"
+        }
+    ]
+}

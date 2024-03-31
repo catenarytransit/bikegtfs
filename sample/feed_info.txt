@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang
-Catenary,https://catenarymaps.org,en
+Catenary Community Rides,https://catenarymaps.org/rides,en
